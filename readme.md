@@ -55,7 +55,7 @@ Decentralized finance (#defi) is the movement that leverages open source softwar
 
 ### Fiat-Backed (Centralized)
 - [Tether (USDT)](https://tether.to) ([docs](https://tether.to/en/transparency/)) - $144B+ market cap, most liquid stablecoin
-- [USD Coin (USDC)](https://www.circle.com/en/usdc) ([source code](https://github.com/circlefin/stablecoin-evm), [docs](https://developers.circle.com/stablecoins/docs)) - $59B+ market cap, issued by Circle
+- [USD Coin (USDC)](https://www.circle.com/en/usdc) ([source code](https://github.com/circlefin/stablecoin-evm), [docs](https://developers.circle.com/stablecoins/what-is-usdc)) - $59B+ market cap, issued by Circle
 - [Paxos Dollar (USDP)](https://paxos.com/usdp/) ([source code](https://github.com/paxosglobal/usdp-contracts)) - Regulated by NYDFS
 - [Gemini Dollar (GUSD)](https://gemini.com/dollar) ([source code](https://github.com/gemini/dollar)) - Issued by Gemini exchange
 
