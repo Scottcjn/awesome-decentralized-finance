@@ -237,7 +237,7 @@ On-chain fund management platforms.
 ### Research & Intelligence
 - [Messari](https://messari.io) - Research reports and protocol data
 - [Nansen](https://nansen.ai) - On-chain analytics with labeled wallets (tracks smart money)
-- [Arkham](https://arkaham.com) - Track entities and wallets
+- [Arkham](https://www.arkhamintelligence.com/) - Track entities and wallets
 - [Glassnode](https://glassnode.com) - On-chain metrics and market intelligence
 
 <a name="misc" />
